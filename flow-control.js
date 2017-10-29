@@ -34,7 +34,7 @@ function switchAge(age) {
     case age <= 19 && age >= 13:
       console.log("You are a teeager")
       break;
-    default: 
+    default:
       console.log("You have an age")
-  
+
 }
